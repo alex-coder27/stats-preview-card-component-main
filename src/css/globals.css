@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lexend+Deca:wght@100..900&display=swap');
+
+body {
+    background-color: var(--color-bg-main);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    color: var(--color-title);
+    font-family: var(--font-family);
+    font-weight: var(--font-weight-regular);
+    font-size: var(--base-size);
+}
+
+.page-wrapper {
+    max-width: calc(96 * var(--base-size));
+    margin: 0 auto;
+}
