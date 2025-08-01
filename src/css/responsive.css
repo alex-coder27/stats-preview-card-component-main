@@ -22,7 +22,7 @@
     }
 
     .card-title {
-        font-size: calc(38 / 15 * var(--base-size) * var(--size-ratio));
+        font-size: calc(37 / 15 * var(--base-size) * var(--size-ratio));
         line-height: calc(45 / 15 * var(--base-size) * var(--size-ratio));
     }
 
