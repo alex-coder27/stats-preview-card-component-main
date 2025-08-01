@@ -6,6 +6,7 @@
     --color-title: hsl(0, 0%, 100%);
     --color-paragraph: hsla(0, 0%, 100%, 0.75);
     --color-neutral: hsla(0, 0%, 100%, 0.6);
+    --color-link-footer: hsl(228, 45%, 44%);
 
     --font-inter: 'Inter';
     --font-lexend-deca: 'Lexend Deca';

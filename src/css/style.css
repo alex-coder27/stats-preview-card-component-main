@@ -1,6 +1,5 @@
 main {
     margin-block-end: calc(2 * var(--base-size) * var(--size-ratio));
-    padding: calc(1.6667 * var(--base-size));
 }
 
 .card-container {
@@ -75,4 +74,14 @@ main {
 .stat-label {
     text-transform: uppercase;
     color: var(--color-neutral);
+}
+
+.attribution {
+    text-align: center;
+    margin-block-start: calc(2 * var(--base-size) * var(--size-ratio));
+}
+
+.attribution a {
+    color: var(--color-link-footer);
+    text-decoration: underline;
 }
